@@ -2,17 +2,17 @@ Welcome! You are about to start on a journey to learn how to create web applicat
 
 For your reference, below is a list of the articles in this series.
 
-Chapter 1: Hello, World! (this article)
+- [Chapter 1: Hello, World!](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
-Chapter 2: Templates
+- [Chapter 2: Templates](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates)
 
-Chapter 3: Web Forms
+- [Chapter 3: Web Forms](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms)
 
-Chapter 4: Database
+- [Chapter 4: Database](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database)
 
-Chapter 5: User Logins
+- [Chapter 5: User Logins](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins)
 
-Chapter 6: Profile Page and Avatars
+- [Chapter 6: Profile Page and Avatars](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vi-profile-page-and-avatars)
 
 Chapter 7: Error Handling
 
