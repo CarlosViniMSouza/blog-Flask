@@ -28,4 +28,4 @@ def index():
         },
     ]
 
-    return render_template("index.html", title="blog Flask", user=user, posts=posts)
+    return render_template("base.html", title="blog Flask", user=user, posts=posts)

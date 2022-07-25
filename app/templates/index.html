@@ -1,20 +1,15 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 
 <head>
+    <link rel="stylesheet" src="style/style.css" type="text/css">
     <title> {{ title }} </title>
-    <style src="style.css"></style>
 </head>
 
 <body>
-    <h2> Hello {{ user }} ! </h2>
-    {% for i in posts %}
-    <div>
-        </br>
-        <p> <em> {{ i.username }} </em> writed "{{ i.title }}" saying: </p>
-        &nbsp; <b> {{ i.subtitle }} </b>
-    </div>
-    {% endfor %}
+    <div> Microblog: <a href="base.html"> Home </a> </div>
+    <hr>
+    {% block content %} {% endblock %}
 </body>
 
 </html>
