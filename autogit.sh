@@ -1,4 +1,4 @@
 git add .
-git commit -m "templates -> added"
+git commit -m "css -> added"
 git push -u origin main
 git status
