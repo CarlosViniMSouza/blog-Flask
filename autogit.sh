@@ -1,5 +1,5 @@
 git add .
-git commit -m "css -> added"
+git commit -m "problems with folder config in __init__.py"
 git push -u origin main
 git status
 
