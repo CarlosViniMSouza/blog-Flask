@@ -1,6 +1,16 @@
 from app import app
 
+
 @app.route("/")
-@app.route("/index")
 def index():
-    return "<h4> Hello World! (by: Flask) </h4>"
+    user = "CarlosViniMSouza"
+    return """
+    <html>
+        <head>
+            <title> blog Flask Tutorial </title>
+        </head>
+        <body>
+            <h2> Hello """ + user + """! </h2>
+        </body>
+    </html>
+    """
