@@ -1,10 +1,22 @@
 from flask import render_template
 from app import app
 
+
 @app.route("/")
-@app.route("/index")
 def index():
     user = "CarlosViniMSouza"
+<<<<<<< HEAD
+    return """
+    <html>
+        <head>
+            <title> blog Flask Tutorial </title>
+        </head>
+        <body>
+            <h2> Hello """ + user + """! </h2>
+        </body>
+    </html>
+    """
+=======
     posts = [
         {
             "username": "Carlos",
@@ -29,3 +41,4 @@ def index():
     ]
 
     return render_template("base.html", title="blog Flask", user=user, posts=posts)
+>>>>>>> 5e094a6c20fc7010642c55950bc16e977d38bea5

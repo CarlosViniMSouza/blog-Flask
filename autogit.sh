@@ -1,5 +1,5 @@
 git add .
-git commit -m "project stopped! I'll fix others problems"
+git commit -m "project stopped!"
 git push -u origin main
 git status
 
