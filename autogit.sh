@@ -1,5 +1,5 @@
 git add .
-git commit -m "problems with folder config in __init__.py"
+git commit -m "project stopped! I'll fix others problems"
 git push -u origin main
 git status
 

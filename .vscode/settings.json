@@ -20,8 +20,8 @@
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "extensions.ignoreRecommendations": true,
-  "workbench.startupEditor": "none",
-  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.startupEditor": "welcomePage",
+  "workbench.colorTheme": "Dracula Soft",
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
   },
